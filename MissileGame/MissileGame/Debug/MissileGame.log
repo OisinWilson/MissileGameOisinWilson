@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\c00213826\desktop\missilegame\main.cpp(59): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00213826\desktop\missilegame\main.cpp(191): warning C4715: 'gameLoop': not all control paths return a value
+  MissileGame.vcxproj -> C:\Users\C00213826\Desktop\MissileGame\MissileGame\Debug\MissileGame.exe
+  MissileGame.vcxproj -> C:\Users\C00213826\Desktop\MissileGame\MissileGame\Debug\MissileGame.pdb (Partial PDB)
